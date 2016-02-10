@@ -1,5 +1,0 @@
-0,2014-12-27_1_graph.txt,peligrosa	marcaron	mascota	oscuro	amor	mu00e1s	ru00e9gimen	venezuela	que	vuelo	cubano	petru00f3leo	bolas	encanta	alimentos
-1,2014-12-09_2_graph.txt,ver	vez	ortega	cola	mu00e1s	venezuela	foto	que	stats	tus	and	u00a1publica	han	sonrisa	popular	valencia
-2,2014-12-09_2_graph.txt,ver	ortega	mu00e1s	venezuela	foto	que	stats	tus	and	u00a1publica	han	popular	ojos	valencia
-3,2014-12-12_5_graph.txt,aquu00ed	que	chu00e1vez	mu00e1s	bendiciones	diez	amigos	queru00eda	mundo	estu00e1	despertu00f3	saliendo
-4,2014-12-20_1_graph.txt,asesinan	you	weareallharry	venezuela	vaina	que	from	seu	obama	cont	note	perfil	besos

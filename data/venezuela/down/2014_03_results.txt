@@ -1,5 +1,0 @@
-0,2014-03-02_1_graph.txt,cesar	represiu00f3n	venezuela	sosvenezuela	debe	hay	algo	rosario	estar	todos	dale	que	etc	mau00f1ana	camino	sigue	jeje	calle
-1,2014-03-25_6_graph.txt,venezuela	estudio	pienso	segu00fan	diputado	fitch	au00f1os	universal	ortega
-2,2014-03-22_1_graph.txt,du00edas	activo	gente	este	foro	vez	estos	calle	hable	del	verdades	video	pedimos	oea	caminos	puerto	estaciones	que	gran	mau00f1ana	vuelve	quiero	vida	toma
-3,2014-03-20_7_graph.txt,hablan	este	23m	prieto	del	sistema	miedo	respeto	su00e9	que	suspendidas	lados
-4,2014-03-20_7_graph.txt,este	rutas	23m	prieto	del	miedo	respeto	central	su00e9	que	suspendidas	lados

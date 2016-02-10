@@ -1,5 +1,0 @@
-0,2014-11-18_9_graph.txt,marido	ipn	marcelaherrerar	escuelas	httptcozuqtdn5vkn	roblesmaloof	ayotzinapa	rivera	yamecanse	tu00e9cnicas	enrique
-1,2014-11-18_9_graph.txt,marido	ipn	escuelas	httptcozuqtdn5vkn	roblesmaloof	rivera	yamecanse	tu00e9cnicas	yamecanseu0301	corrupciu00f3n	enrique
-2,2014-11-18_9_graph.txt,marido	ipn	marcelaherrerar	escuelas	httptcozuqtdn5vkn	roblesmaloof	ayotzinapa	rivera	yamecanse	tu00e9cnicas	enrique
-3,2014-11-18_9_graph.txt,marido	ipn	escuelas	httptcozuqtdn5vkn	roblesmaloof	yamecanse	tu00e9cnicas	yamecanseu0301	corrupciu00f3n	enrique
-4,2014-11-18_9_graph.txt,marido	ipn	marcelaherrerar	escuelas	httptcozuqtdn5vkn	roblesmaloof	ayotzinapa	rivera	yamecanse	tu00e9cnicas	enrique

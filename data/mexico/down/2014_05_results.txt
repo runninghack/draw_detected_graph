@@ -1,5 +1,0 @@
-0,2014-05-04_9_graph.txt,mayo	catarsis	su00edsmica	que	seru00e1	danarenas
-1,2014-05-13_9_graph.txt,mujeres	mayo	ramu00edrez	pachuca	lupita_romero	speech	mente	u00a1bienvenida	ten	oficial	mujer
-2,2014-05-13_9_graph.txt,mujeres	mayo	ramu00edrez	pachuca	lupita_romero	speech	mente	u00a1bienvenida	ten	oficial	mujer
-3,2014-05-17_9_graph.txt,plate	aparece	veo	atleti	unidad	argentina	felicidades	inaugura	ganadores	au00f1os	mis
-4,2014-05-07_10_graph.txt,tipo	quite	diario	salas	base	apoyemos	ganas	quiero

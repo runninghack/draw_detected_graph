@@ -1,5 +1,0 @@
-0,2014-09-26_2_graph.txt,estudiantil	layu00fan	jan_herzog	todossomospolitecnico	rau00fal	boletos	anotu00f3	cecyt	ponchomunoz
-1,2014-09-11_10_graph.txt,esto	bullysteriasebas	bullysteria	quedarse	exigimos	frasesdeahora	mis
-2,2014-09-19_9_graph.txt,dejen	hagamos	lees	minuto	enfermedad	mu00e1s	sale	aficiu00f3n	sensaciu00f3n	queremos	que	novela
-3,2014-09-11_5_graph.txt,ver	equivocan	bonitas	mirar	llega	sonreu00edr	olvidar	vuelven	utilizan	efectoopticos
-4,2014-09-16_8_graph.txt,viva	patrias	al3jandraguzman	estas	champions	cabos	josefa	jlgalindo1	loscabos	mexicanosalgrito	bcs

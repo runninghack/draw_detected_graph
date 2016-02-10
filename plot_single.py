@@ -8,18 +8,15 @@ from textblob import TextBlob
 import os
 import calendar
 import codecs
+import copy
 import json
 
 gs = goslate.Goslate()
-country = "mexico"
-data_path = "./data/"+country+"/down/"
-result_path = "./graph/" + country + "/down/"
-data_all = os.listdir(data_path)
-sourcePath = "./data_" + country + "/"
-monthly_freq = []
+result_path = "./"
+sourcePath = "/Users/ramiel/Workspace/GraphIHT/data/mexico/"
 
 
-def calculate_lambda(fname, nodelist):
+def calculate_lambda(data_path, fname, nodelist):
     month = fname[5:7]
     num = int(fname.split("_")[2])
     fname_window = open(data_path + fname[0:8] + "results.txt").readlines()[num].split(",")[1]
@@ -31,7 +28,7 @@ def calculate_lambda(fname, nodelist):
     return lambdas
 
 
-def get_window_length(fname):
+def get_window_length(data_path, fname):
     num = int(fname.split("_")[2])
     fname_window = open(data_path + fname[0:8] + "results.txt").readlines()[num].split(",")[1]
     return int(fname_window.split("_")[1])
@@ -87,28 +84,29 @@ def adjust_nodes_sizes(nodes_sizes):
     return nodes_sizes
 
 
-def adjust_lambdas(lambdas, weights, fname):
+def adjust_lambdas(lambdas, weights, fname, data_path):
     num_days = calendar.monthrange(2014, int(fname[5:7]))[1]
-    num_days_window = get_window_length(fname)
+    num_days_window = get_window_length(data_path, fname)
+    num_days_window = get_window_length(data_path, fname)
     results = []
     for i in range(len(lambdas)):
         results.append((lambdas[i] * num_days - weights[i])/(num_days - num_days_window))
     return results
 
 
-def run(fname):
+def run(data_path, fname):
     f = open(data_path + fname)
     nodes = f.readline()
     if nodes.find('\t') >= 0:
         nodes = nodes.strip().split('\t')
     else:
         nodes = f.readline().strip().split('\t')
-    lambdas = calculate_lambda(fname, nodes)
+    lambdas = calculate_lambda(data_path, fname, nodes)
     nodes = map(lambda x: x.replace("u00", "\u00").decode('unicode_escape'), nodes)
     nodes_weights = [float(i) for i in f.readline().strip().split('\t')]
-    lambdas = adjust_lambdas(lambdas, nodes_weights, fname)
-    nodes_sizes = adjust_nodes_sizes(nodes_weights)
-    nodes_weights = map(lambda x: x/get_window_length(fname), nodes_weights)
+    #lambdas = adjust_lambdas(lambdas, nodes_weights, fname, data_path)
+    nodes_sizes = adjust_nodes_sizes(copy.copy(nodes_weights))
+    nodes_weights = map(lambda x: x/get_window_length(data_path, fname), nodes_weights)
 
 
     edges = []
@@ -130,13 +128,19 @@ def run(fname):
 
 
 def run_all():
+    data_path = "./data/"+country+"/down/"
+    data_all = os.listdir(data_path)
+
     for fname in data_all:
         if fname.find("graph") > 0:
             print fname
-            run(fname)
+            run(data_path, fname)
 
 
 if __name__ == "__main__":
-    # run("2014_11_0_graph.txt")
-    run_all()
+    data_path = "/Users/ramiel/Workspace/GraphIHT/outputs/mexico_down/"
+    files= os.listdir(data_path)
+    files = filter(lambda x: x.find("graph") > 0, files)
+    for f in files:
+        run(data_path, f)
 

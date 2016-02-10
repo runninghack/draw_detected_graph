@@ -1,5 +1,0 @@
-0,2014-04-03_10_graph.txt,hoy	hay	margarita	cumpliu00f3	puestos	mu00e1s	encuestas	del	queso	residencia	que	quiero
-1,2014-04-07_8_graph.txt,estrategia	este	canciu00f3n	estaciones	son	valle	todos	real	you	del	sigue	autobu00fas	postura	nada	vida	semis
-2,2014-04-06_7_graph.txt,quu00e9	compau00f1era	nunca	foto	amor	vez	siempre	asu00ed	estar	tus	vean	viene	calles	placer	teme
-3,2014-04-01_7_graph.txt,novio	hasta	alguien	detenido	mas	dice	valencia	tu00fa	fundaciu00f3n	urgente	1aparonacional	les	du00eda	leal	resiste
-4,2014-04-18_8_graph.txt,mu00e1rquez	creo	garcu00eda	amor	algo	ver	venezuela	eterno	controlaru00e1	gabo	su00f3lo	permanente	tan	amigo

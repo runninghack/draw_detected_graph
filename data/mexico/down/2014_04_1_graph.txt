@@ -1,9 +1,0 @@
-suerte	saldru00e1n	lado	encuentres	salir	quedu00e9	
-3296.0	844.0	10048.0	708.0	5229.0	392.0	
-saldru00e1n	lado
-lado	salir
-suerte	saldru00e1n
-lado	encuentres
-encuentres	salir
-suerte	lado
-salir	quedu00e9
