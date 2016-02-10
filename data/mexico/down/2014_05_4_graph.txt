@@ -1,0 +1,9 @@
+tipo	quite	diario	salas	base	apoyemos	ganas	quiero	
+5374.0	1112.0	3465.0	1652.0	2475.0	1215.0	12406.0	49945.0	
+quite	ganas
+ganas	quiero
+tipo	base
+salas	apoyemos
+tipo	salas
+diario	quiero
+salas	ganas

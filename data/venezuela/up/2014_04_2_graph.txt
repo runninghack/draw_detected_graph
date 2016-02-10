@@ -1,0 +1,46 @@
+705361.5952931959
+quu00e9	compau00f1era	nunca	foto	amor	vez	siempre	asu00ed	estar	tus	vean	viene	calles	placer	teme	
+20066.0	103.0	19443.0	18128.0	26778.0	15001.0	24169.0	20127.0	14859.0	23785.0	959.0	2652.0	914.0	1138.0	206.0	
+nunca	vean
+quu00e9	vez
+amor	estar
+asu00ed	tus
+nunca	amor
+nunca	vez
+nunca	estar
+estar	placer
+nunca	siempre
+foto	teme
+nunca	asu00ed
+quu00e9	foto
+foto	vean
+quu00e9	tus
+foto	calles
+siempre	estar
+foto	vez
+quu00e9	siempre
+compau00f1era	calles
+quu00e9	nunca
+amor	tus
+amor	siempre
+vez	calles
+foto	tus
+foto	asu00ed
+vez	viene
+vez	siempre
+vez	asu00ed
+quu00e9	estar
+asu00ed	estar
+vez	estar
+vean	teme
+nunca	foto
+amor	vez
+quu00e9	asu00ed
+vez	tus
+siempre	asu00ed
+vean	calles
+siempre	tus
+nunca	calles
+nunca	tus
+amor	asu00ed
+quu00e9	viene

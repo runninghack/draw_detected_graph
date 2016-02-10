@@ -1,0 +1,13 @@
+mundo	interjet_mx	unefon	estu00e1	asu00ed	dice	quiero	esperen	favor	
+27655.0	29.0	11410.0	34923.0	38927.0	18422.0	52810.0	475.0	15546.0	
+unefon	favor
+interjet_mx	esperen
+unefon	esperen
+asu00ed	dice
+mundo	quiero
+mundo	estu00e1
+mundo	dice
+estu00e1	asu00ed
+quiero	favor
+mundo	asu00ed
+estu00e1	dice

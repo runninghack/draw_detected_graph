@@ -1,0 +1,14 @@
+viva	patrias	al3jandraguzman	estas	champions	cabos	josefa	jlgalindo1	loscabos	mexicanosalgrito	bcs	
+14044.0	1446.0	187.0	11482.0	1760.0	3927.0	104.0	4134.0	1329.0	64.0	6875.0	
+cabos	bcs
+loscabos	bcs
+viva	cabos
+viva	al3jandraguzman
+viva	patrias
+viva	josefa
+jlgalindo1	bcs
+patrias	estas
+cabos	jlgalindo1
+champions	jlgalindo1
+cabos	loscabos
+viva	mexicanosalgrito

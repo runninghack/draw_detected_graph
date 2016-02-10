@@ -1,0 +1,16 @@
+carballo	decides	u00danete	lunes	leer	cuerpo	tu00fa	actu00faa	gabriel	bellasartesinba	profundamente	
+935.0	1302.0	1123.0	6147.0	4654.0	4300.0	25694.0	1460.0	17477.0	959.0	362.0	
+u00danete	tu00fa
+leer	tu00fa
+carballo	profundamente
+carballo	bellasartesinba
+decides	lunes
+decides	tu00fa
+cuerpo	gabriel
+lunes	actu00faa
+lunes	tu00fa
+lunes	bellasartesinba
+decides	actu00faa
+decides	u00danete
+tu00fa	actu00faa
+gabriel	profundamente

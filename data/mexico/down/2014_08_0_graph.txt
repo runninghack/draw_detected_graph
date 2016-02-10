@@ -1,0 +1,20 @@
+reporte	sunshine	mujeres	todas	migraciu00f3n	mime	williams	pan	robbie	see	muriu00f3	robin	video	
+1163.0	876.0	11740.0	12986.0	537.0	37.0	14236.0	6434.0	384.0	7517.0	2695.0	14139.0	28725.0	
+sunshine	see
+williams	muriu00f3
+reporte	pan
+todas	williams
+mujeres	todas
+mujeres	migraciu00f3n
+robbie	robin
+todas	robin
+see	video
+muriu00f3	robin
+williams	robbie
+reporte	williams
+williams	robin
+reporte	robin
+robbie	muriu00f3
+pan	video
+mime	williams
+mime	robin

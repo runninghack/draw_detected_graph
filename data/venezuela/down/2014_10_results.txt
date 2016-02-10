@@ -1,0 +1,5 @@
+0,2014-10-09_9_graph.txt,venezuela	leopoldo	carro	sera	del	u00a1se	mu00e9dicos	inicio	fiesta	que	propuesta
+1,2014-10-10_1_graph.txt,ramu00edrez	venezuela	venezolano	miss	quinta	fallo	caso	audio	felicitaciones	estudian	u00e9bola	paciente
+2,2014-10-24_5_graph.txt,rodru00edguez	del	sido	que	horas	vu00eda	tres	conmigo	u00faltimas	papi	carta	ultima	verde	urgente
+3,2014-10-29_1_graph.txt,u00b7u00b7u00b7u00bb	exclusivo	su00e9	nada	paga	ddhh	consultas	venezuela	venezolana	que	algo	chavez	ella	miranda
+4,2014-10-12_6_graph.txt,vez	quu00e9	gloria	robert	venezuela	que	posiciones	alguien	conmigo	vida	amor	ud83dudc49	estu00e1s	maru00eda	respuesta	nunca

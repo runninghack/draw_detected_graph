@@ -1,0 +1,15 @@
+mujeres	mayo	ramu00edrez	pachuca	lupita_romero	speech	mente	u00a1bienvenida	ten	oficial	mujer	
+11697.0	13863.0	691.0	6700.0	2746.0	43.0	4811.0	272.0	5335.0	4354.0	13445.0	
+mayo	pachuca
+ten	mujer
+mujeres	mujer
+mujeres	lupita_romero
+mente	ten
+mayo	lupita_romero
+mayo	oficial
+lupita_romero	speech
+ramu00edrez	u00a1bienvenida
+pachuca	oficial
+pachuca	u00a1bienvenida
+pachuca	lupita_romero
+ramu00edrez	pachuca

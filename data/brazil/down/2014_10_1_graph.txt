@@ -1,0 +1,28 @@
+11.054089850944687
+quu00e9	votando	kcaargentina	jackson	brasil	hoje	mudar	jorgeblanco	michael	red	que	amigo	simples	
+21006.0	439.0	3769.0	286.0	3224.0	339.0	422.0	952.0	742.0	2267.0	467132.0	6376.0	310.0	
+kcaargentina	brasil
+votando	mudar
+mudar	que
+votando	kcaargentina
+brasil	hoje
+que	simples
+quu00e9	que
+brasil	red
+hoje	simples
+brasil	que
+jackson	michael
+votando	hoje
+michael	que
+votando	que
+kcaargentina	jorgeblanco
+hoje	que
+quu00e9	brasil
+brasil	amigo
+votando	brasil
+que	amigo
+hoje	amigo
+hoje	mudar
+kcaargentina	que
+brasil	simples
+brasil	mudar

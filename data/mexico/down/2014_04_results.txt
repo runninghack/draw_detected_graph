@@ -1,0 +1,5 @@
+0,2014-04-15_8_graph.txt,total	perdiste	eclipse	bella	zona	color	sismolu00f3gico	skyalertmx	tecpan	perderte
+1,2014-04-01_7_graph.txt,suerte	saldru00e1n	lado	encuentres	salir	quedu00e9
+2,2014-04-14_10_graph.txt,carballo	decides	u00danete	lunes	leer	cuerpo	tu00fa	actu00faa	gabriel	bellasartesinba	profundamente
+3,2014-04-22_7_graph.txt,entrar	vez	escucho	pase	tu00fa	soloconfesion	redes	liguilla	censura	mesientobiencuando	gran
+4,2014-04-22_7_graph.txt,entrar	vez	escucho	pase	tu00fa	soloconfesion	redes	liguilla	censura	mesientobiencuando	gran

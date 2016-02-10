@@ -1,0 +1,26 @@
+peligrosa	marcaron	mascota	oscuro	amor	mu00e1s	ru00e9gimen	venezuela	que	vuelo	cubano	petru00f3leo	bolas	encanta	alimentos	
+21.0	18.0	19.0	46.0	5382.0	8365.0	26.0	276.0	59732.0	26.0	30.0	68.0	25.0	408.0	54.0	
+que	petru00f3leo
+amor	mu00e1s
+oscuro	que
+ru00e9gimen	venezuela
+amor	venezuela
+mu00e1s	cubano
+venezuela	que
+ru00e9gimen	cubano
+cubano	petru00f3leo
+mu00e1s	venezuela
+que	cubano
+mascota	que
+que	bolas
+ru00e9gimen	que
+venezuela	petru00f3leo
+venezuela	vuelo
+que	encanta
+marcaron	que
+peligrosa	ru00e9gimen
+mascota	vuelo
+amor	que
+mu00e1s	ru00e9gimen
+que	alimentos
+mu00e1s	que

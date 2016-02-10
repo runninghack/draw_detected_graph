@@ -1,0 +1,10 @@
+estudiantil	layu00fan	jan_herzog	todossomospolitecnico	rau00fal	boletos	anotu00f3	cecyt	ponchomunoz	
+415.0	1186.0	61.0	3643.0	1261.0	1184.0	188.0	128.0	389.0	
+layu00fan	anotu00f3
+estudiantil	rau00fal
+estudiantil	todossomospolitecnico
+layu00fan	boletos
+todossomospolitecnico	cecyt
+rau00fal	anotu00f3
+jan_herzog	todossomospolitecnico
+boletos	ponchomunoz

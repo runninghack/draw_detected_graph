@@ -1,0 +1,27 @@
+hoy	mayo	amor	fuerte	mu00e1s	mom	sintio	que	du00eda	apoyemos	apoyarme	mexicano	present	
+85293.0	20631.0	41756.0	11340.0	104451.0	2046.0	108.0	711928.0	63855.0	1215.0	75.0	5989.0	306.0	
+que	apoyarme
+fuerte	sintio
+mayo	du00eda
+hoy	mu00e1s
+hoy	amor
+apoyemos	mexicano
+mu00e1s	du00eda
+mu00e1s	que
+mom	present
+fuerte	que
+fuerte	mu00e1s
+amor	fuerte
+hoy	mayo
+mayo	que
+fuerte	du00eda
+mom	que
+amor	mu00e1s
+hoy	que
+amor	que
+que	du00eda
+mayo	mexicano
+mayo	mu00e1s
+hoy	du00eda
+amor	du00eda
+hoy	fuerte

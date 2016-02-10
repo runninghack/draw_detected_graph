@@ -1,0 +1,21 @@
+maduro	militares	frida	venezuela	kahlo	nacimiento	completo	falleciu00f3	madridismo	ru00e9gimen	stefano	independencia	alfredo	
+76.0	54.0	959.0	323.0	757.0	175.0	353.0	203.0	57.0	66.0	555.0	150.0	1664.0	
+venezuela	alfredo
+falleciu00f3	stefano
+madridismo	alfredo
+falleciu00f3	alfredo
+venezuela	independencia
+venezuela	completo
+militares	venezuela
+maduro	independencia
+frida	nacimiento
+frida	kahlo
+venezuela	stefano
+maduro	nacimiento
+venezuela	ru00e9gimen
+stefano	alfredo
+maduro	militares
+maduro	venezuela
+kahlo	nacimiento
+maduro	ru00e9gimen
+venezuela	falleciu00f3

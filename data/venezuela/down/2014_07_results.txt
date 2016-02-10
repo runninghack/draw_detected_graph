@@ -1,0 +1,5 @@
+0,2014-07-06_2_graph.txt,maduro	militares	frida	venezuela	kahlo	nacimiento	completo	falleciu00f3	madridismo	ru00e9gimen	stefano	independencia	alfredo
+1,2014-07-06_2_graph.txt,maduro	militares	frida	venezuela	kahlo	armada	saeta	nacimiento	repu00fablica	completo	falleciu00f3	certificada	madridismo	ru00e9gimen	stefano	stu00e9fano	alfredo	detiene
+2,2014-07-02_8_graph.txt,venezuela	carta	jugador	mas	nadie	costa	neymar	juego	respeto	alemanes	segu00fan	que	encuesta	chica
+3,2014-07-24_1_graph.txt,rafael	from	ahu00ed	gente	venezuela	que	gusta	david	avion	candelaria	carvajal	mathieu	hija	eluniversal
+4,2014-07-06_3_graph.txt,nacimiento	fundador	maduro	venezuela	brasil	esto	wimbledonxespn	brasileu00f1os	kahlo	federer	frida	delta	alemaniavsbrasil

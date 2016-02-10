@@ -1,0 +1,20 @@
+solidaridad	citen	que	carro	gaby	fiscalu00eda	quemados	acaba	deseas	cu00e1rcel	carta	vaina	estudiantes	pretende	
+421.0	31.0	73749.0	69.0	28.0	157.0	129.0	282.0	37.0	57.0	59.0	17.0	2129.0	32.0	
+que	carta
+solidaridad	estudiantes
+que	estudiantes
+que	deseas
+solidaridad	gaby
+cu00e1rcel	pretende
+que	vaina
+que	fiscalu00eda
+que	quemados
+fiscalu00eda	cu00e1rcel
+quemados	estudiantes
+fiscalu00eda	estudiantes
+citen	que
+que	carro
+que	gaby
+que	acaba
+fiscalu00eda	pretende
+que	cu00e1rcel

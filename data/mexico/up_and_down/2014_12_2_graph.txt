@@ -1,0 +1,20 @@
+cf_america	imisterhacker	llega	franquicias	direction	casa	pasa	nuestra	buena	final	virgo	informaciu00f3n	justin	mtvstars	
+16958.0	15949.0	5868.0	22611.0	23251.0	16596.0	12479.0	10877.0	6572.0	12646.0	1042.0	10672.0	16202.0	20678.0	
+llega	buena
+direction	mtvstars
+cf_america	final
+direction	pasa
+final	informaciu00f3n
+llega	pasa
+buena	virgo
+final	mtvstars
+direction	justin
+casa	nuestra
+franquicias	informaciu00f3n
+cf_america	nuestra
+direction	final
+direction	nuestra
+justin	mtvstars
+pasa	mtvstars
+pasa	justin
+imisterhacker	nuestra

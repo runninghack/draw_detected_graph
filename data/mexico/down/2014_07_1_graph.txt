@@ -1,0 +1,23 @@
+has	selecciones	that	ger	alemania	mundial	argentina	motivaatucuerpo	mu00e9xico	from	guapos	gran	
+7707.0	324.0	15630.0	16482.0	27980.0	31095.0	42865.0	1237.0	67886.0	12449.0	2241.0	18174.0	
+argentina	motivaatucuerpo
+selecciones	mundial
+ger	gran
+mu00e9xico	from
+alemania	motivaatucuerpo
+ger	mundial
+mundial	gran
+has	that
+alemania	guapos
+alemania	gran
+mundial	guapos
+mundial	motivaatucuerpo
+that	from
+alemania	argentina
+mundial	argentina
+selecciones	ger
+ger	argentina
+argentina	gran
+alemania	mundial
+mundial	mu00e9xico
+ger	alemania

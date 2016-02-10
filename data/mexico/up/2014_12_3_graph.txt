@@ -1,0 +1,25 @@
+pide	edith	nunca	historiador	yamecanse2	decir	mujica	sooy_leyenda	amu00e9rica	certeza	conmueve	you	estudiante	juanpabioprattz	redes	revolucion	irrumpiu00f3	su00e9	final	quiere	
+5053.0	424.0	31150.0	208.0	30228.0	12832.0	2544.0	17012.0	15612.0	553.0	227.0	37313.0	3593.0	5862.0	5135.0	96.0	2127.0	14657.0	21513.0	13344.0	
+pide	irrumpiu00f3
+mujica	conmueve
+nunca	yamecanse2
+yamecanse2	decir
+final	quiere
+estudiante	irrumpiu00f3
+pide	estudiante
+yamecanse2	revolucion
+yamecanse2	mujica
+edith	estudiante
+you	juanpabioprattz
+sooy_leyenda	redes
+juanpabioprattz	su00e9
+nunca	decir
+yamecanse2	estudiante
+yamecanse2	redes
+amu00e9rica	final
+decir	su00e9
+yamecanse2	certeza
+pide	historiador
+decir	sooy_leyenda
+decir	quiere
+pide	yamecanse2

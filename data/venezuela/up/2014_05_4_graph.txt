@@ -1,0 +1,18 @@
+563811.9875213311
+activo	quu00e9	foto	asu00ed	encuentran	canales	su00f3lo	que	du00eda	
+366.0	31765.0	30052.0	36123.0	1101.0	126.0	23222.0	711928.0	63855.0	
+asu00ed	que
+quu00e9	su00f3lo
+quu00e9	du00eda
+su00f3lo	que
+quu00e9	encuentran
+encuentran	que
+activo	que
+quu00e9	que
+su00f3lo	du00eda
+foto	asu00ed
+quu00e9	foto
+asu00ed	su00f3lo
+asu00ed	encuentran
+foto	que
+canales	que

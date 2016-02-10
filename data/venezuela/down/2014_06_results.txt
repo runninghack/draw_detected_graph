@@ -1,0 +1,5 @@
+0,2014-06-09_2_graph.txt,pau00eds	reuniones	alto	extrau00f1o	nada	mu00e1s	venezuela	que	pruebas	dijo	miley	vendo	miami	pobres
+1,2014-06-10_9_graph.txt,que	cuanta	onu	abandonado	posible	molesta	ojos	perfil	sorpresa	espau00f1a	dijo
+2,2014-06-07_10_graph.txt,hogar	miserable	robo	viven	neymar	ronaldo	del	control	democracia	que	proyecto
+3,2014-06-04_10_graph.txt,here	venezuela	duda	caso	you	via	caracas	visita	urgente	au00fan
+4,2014-06-07_7_graph.txt,venezuela	programa	mu00e1s	lago	estudio	derechos	segu00fan	del	periodista	medios	euforia	que	anuncios

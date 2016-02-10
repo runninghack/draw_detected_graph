@@ -1,0 +1,5 @@
+0,2014-02-13_8_graph.txt,venezuela	time	decir	leopoldo	espera	venir	mhonividente	selling	caracas	que	duela	vuelve
+1,2014-02-17_10_graph.txt,chu00e1vez	nunca	genesis	venezuela	razu00f3n	venir	fam	su00ed	que	iqueemma	mis
+2,2014-02-01_7_graph.txt,su00e1bado	polu00edtica	contigo	febrero	mitos	hrs	ganas	vagoneros	patria	u00a1y	dieron	presentaremos	congresopopular
+3,2014-02-19_2_graph.txt,problemas	quedaba	tienes	llevar	soloconfesion	errores	soyuntweet	bendiciu00f3n	gastar
+4,2014-02-17_10_graph.txt,chu00e1vez	nunca	genesis	venezuela	razu00f3n	venir	fam	su00ed	que	iqueemma	mis

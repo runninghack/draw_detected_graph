@@ -1,0 +1,24 @@
+bombardee	propone	mujeres	son	retotelehit	migraciu00f3n	notademujer	amo	feliz	mariobautista_	mundo	lt3	tvtelehit	du00eda	mis	quiero	
+170.0	828.0	14133.0	48624.0	51346.0	594.0	2842.0	29190.0	23557.0	50930.0	26553.0	18516.0	22953.0	55281.0	40932.0	68002.0	
+son	mariobautista_
+mariobautista_	lt3
+amo	tvtelehit
+mundo	tvtelehit
+amo	lt3
+retotelehit	amo
+mujeres	migraciu00f3n
+propone	migraciu00f3n
+notademujer	du00eda
+amo	quiero
+retotelehit	mundo
+mujeres	notademujer
+tvtelehit	quiero
+feliz	tvtelehit
+son	mis
+amo	mundo
+retotelehit	tvtelehit
+retotelehit	quiero
+feliz	du00eda
+mundo	quiero
+notademujer	feliz
+bombardee	propone

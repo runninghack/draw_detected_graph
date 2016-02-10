@@ -1,0 +1,19 @@
+venezuela	time	decir	leopoldo	espera	venir	mhonividente	selling	caracas	que	duela	vuelve	
+25645.0	9970.0	6153.0	1748.0	2381.0	1725.0	4090.0	109.0	1257.0	474338.0	512.0	1759.0	
+time	que
+caracas	que
+leopoldo	mhonividente
+espera	que
+venir	mhonividente
+venezuela	leopoldo
+que	vuelve
+mhonividente	que
+venezuela	que
+time	selling
+venezuela	mhonividente
+venezuela	caracas
+decir	duela
+venezuela	venir
+leopoldo	caracas
+time	decir
+decir	que

@@ -1,0 +1,36 @@
+486468.867075594
+algvsrus	venezuela	fred	rica	argelia	hay	avila	todos	dormir	del	tan	dijo	estu00e1	eso	mundialbrasil2014	
+56.0	1548.0	452.0	7813.0	559.0	36655.0	46.0	39460.0	7029.0	125136.0	23466.0	5140.0	30243.0	26291.0	2819.0	
+del	tan
+tan	estu00e1
+del	eso
+venezuela	tan
+del	estu00e1
+hay	dormir
+del	dijo
+hay	eso
+tan	eso
+venezuela	estu00e1
+hay	avila
+del	mundialbrasil2014
+hay	estu00e1
+todos	estu00e1
+venezuela	eso
+avila	del
+hay	del
+hay	todos
+venezuela	del
+venezuela	hay
+venezuela	rica
+rica	mundialbrasil2014
+fred	mundialbrasil2014
+todos	del
+venezuela	todos
+algvsrus	argelia
+todos	eso
+hay	tan
+todos	tan
+estu00e1	eso
+dijo	estu00e1
+argelia	mundialbrasil2014
+venezuela	dijo

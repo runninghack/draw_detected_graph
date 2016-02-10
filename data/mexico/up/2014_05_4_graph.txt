@@ -1,0 +1,18 @@
+mayo	maestros	sismo	siyofueramaestro	feliz	ciudad	cadenahumanadelzu00f3caloasegob	chingueasumadreepn	locatel	madre	dontriana	arelyoung	
+19631.0	7234.0	11408.0	3523.0	29730.0	11994.0	383.0	7010.0	129.0	14706.0	26.0	21.0	
+sismo	ciudad
+mayo	madre
+sismo	locatel
+mayo	chingueasumadreepn
+mayo	ciudad
+mayo	cadenahumanadelzu00f3caloasegob
+mayo	sismo
+feliz	madre
+mayo	feliz
+sismo	madre
+chingueasumadreepn	madre
+siyofueramaestro	arelyoung
+mayo	maestros
+maestros	siyofueramaestro
+ciudad	locatel
+chingueasumadreepn	dontriana

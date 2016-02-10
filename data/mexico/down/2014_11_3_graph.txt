@@ -1,0 +1,13 @@
+marido	ipn	escuelas	httptcozuqtdn5vkn	roblesmaloof	yamecanse	tu00e9cnicas	yamecanseu0301	corrupciu00f3n	enrique	
+1368.0	2405.0	1305.0	5349.0	2503.0	52495.0	282.0	9173.0	4481.0	3625.0	
+yamecanse	enrique
+ipn	escuelas
+roblesmaloof	yamecanse
+ipn	enrique
+marido	httptcozuqtdn5vkn
+yamecanse	yamecanseu0301
+yamecanseu0301	corrupciu00f3n
+yamecanse	corrupciu00f3n
+escuelas	tu00e9cnicas
+marido	corrupciu00f3n
+roblesmaloof	yamecanseu0301

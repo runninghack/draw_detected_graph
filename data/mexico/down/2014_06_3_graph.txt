@@ -1,0 +1,14 @@
+mirando	message	fausto	del	amistad	que	obviamente	ochoa	vallejo	
+1129.0	440.0	1925.0	185780.0	1636.0	745100.0	605.0	36016.0	2104.0	
+fausto	que
+que	obviamente
+message	ochoa
+mirando	que
+amistad	que
+fausto	vallejo
+fausto	del
+del	que
+que	ochoa
+del	obviamente
+del	ochoa
+obviamente	ochoa

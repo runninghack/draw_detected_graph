@@ -1,0 +1,17 @@
+hoy	hidrocarburos	campechenoticia	oaxaca	son	del	moderado	sismo	mtvhottest	que	mis	
+60116.0	807.0	9512.0	5293.0	73286.0	130805.0	49.0	5463.0	32372.0	650511.0	47508.0	
+oaxaca	sismo
+del	que
+mtvhottest	que
+hidrocarburos	campechenoticia
+son	mis
+campechenoticia	son
+campechenoticia	sismo
+hoy	que
+oaxaca	moderado
+hoy	del
+mtvhottest	mis
+moderado	sismo
+del	mtvhottest
+campechenoticia	oaxaca
+son	mtvhottest

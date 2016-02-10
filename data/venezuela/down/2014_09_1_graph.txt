@@ -1,0 +1,26 @@
+otra	venezuela	ligabbva	hoy	creo	oye	que	bilbao	salud	escolar	gtgt	athletic	fiebre	
+4971.0	704.0	45.0	29052.0	4089.0	2110.0	263055.0	129.0	1758.0	161.0	287.0	242.0	169.0	
+venezuela	creo
+venezuela	fiebre
+creo	que
+oye	que
+otra	salud
+venezuela	escolar
+creo	oye
+bilbao	athletic
+venezuela	hoy
+que	fiebre
+salud	fiebre
+que	gtgt
+ligabbva	que
+otra	que
+que	escolar
+hoy	escolar
+ligabbva	athletic
+hoy	que
+otra	escolar
+venezuela	que
+salud	escolar
+hoy	salud
+venezuela	salud
+que	salud

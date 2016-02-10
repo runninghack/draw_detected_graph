@@ -1,0 +1,14 @@
+austinmahone	want	sitio	agosto	live	los40gdl	ocupa	video	this	telehit	tvtelehit	
+3233.0	13790.0	1722.0	14296.0	4491.0	332.0	889.0	31610.0	27326.0	914.0	23103.0	
+agosto	tvtelehit
+agosto	video
+sitio	agosto
+telehit	tvtelehit
+agosto	los40gdl
+austinmahone	video
+want	this
+live	video
+sitio	ocupa
+austinmahone	this
+austinmahone	tvtelehit
+ocupa	tvtelehit

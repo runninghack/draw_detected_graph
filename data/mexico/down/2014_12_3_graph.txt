@@ -1,0 +1,13 @@
+u00a1ya	yamecanse2	thelordmoshe	llora	diciembre	300	mujica	alexander	phraseindirecta	aceptan	dar	
+1873.0	54655.0	1692.0	1642.0	17037.0	2224.0	3188.0	4848.0	3687.0	596.0	10300.0	
+u00a1ya	thelordmoshe
+alexander	dar
+yamecanse2	diciembre
+alexander	aceptan
+yamecanse2	alexander
+llora	phraseindirecta
+thelordmoshe	dar
+llora	mujica
+yamecanse2	mujica
+diciembre	300
+yamecanse2	aceptan

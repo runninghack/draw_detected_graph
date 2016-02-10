@@ -1,0 +1,36 @@
+863385.1055836631
+100	gracias	foo	mucho	and	esconde	show	todos	amo	paso	seguidores	kcamexico	siempre	cuidando	que	ebola	quiero	twitter	
+2947.0	26584.0	57.0	16261.0	21352.0	208.0	2335.0	28447.0	15303.0	5596.0	39397.0	17874.0	28339.0	106.0	496726.0	220.0	37764.0	19040.0	
+show	paso
+kcamexico	que
+todos	kcamexico
+seguidores	que
+seguidores	twitter
+amo	siempre
+show	amo
+amo	twitter
+siempre	que
+and	amo
+paso	que
+amo	kcamexico
+todos	amo
+que	twitter
+100	kcamexico
+and	twitter
+que	quiero
+mucho	amo
+cuidando	que
+gracias	amo
+todos	twitter
+todos	que
+foo	show
+esconde	que
+mucho	quiero
+amo	que
+mucho	que
+show	que
+and	que
+que	ebola
+and	show
+100	que
+kcamexico	twitter

@@ -1,0 +1,21 @@
+moru00edn	caza	aunque	buenas	retosaiote	estu00e9s	animales	estar	castro	maderocorrupto	luceromexico	cristiancastro	
+120.0	431.0	5739.0	6974.0	482.0	2274.0	3119.0	14912.0	2303.0	3300.0	4918.0	1964.0	
+animales	luceromexico
+aunque	estar
+retosaiote	cristiancastro
+buenas	estar
+luceromexico	cristiancastro
+buenas	estu00e9s
+aunque	estu00e9s
+animales	castro
+estar	maderocorrupto
+caza	animales
+retosaiote	castro
+castro	cristiancastro
+buenas	luceromexico
+aunque	buenas
+moru00edn	maderocorrupto
+retosaiote	luceromexico
+estu00e9s	estar
+caza	luceromexico
+animales	cristiancastro

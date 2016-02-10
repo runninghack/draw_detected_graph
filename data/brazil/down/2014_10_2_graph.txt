@@ -1,0 +1,27 @@
+9.841116916640328
+here	com	today	girl	cara	voto	completa	nu00e3o	always	prefeito	confirma	tag	daniela	
+2721.0	1513.0	6279.0	3748.0	5335.0	2913.0	884.0	442.0	1297.0	26.0	917.0	421.0	220.0	
+voto	nu00e3o
+cara	tag
+com	nu00e3o
+girl	nu00e3o
+girl	voto
+voto	tag
+cara	voto
+cara	nu00e3o
+com	today
+here	girl
+cara	prefeito
+nu00e3o	tag
+today	tag
+com	girl
+today	nu00e3o
+com	completa
+completa	nu00e3o
+com	tag
+here	always
+com	confirma
+com	daniela
+nu00e3o	confirma
+com	cara
+com	voto

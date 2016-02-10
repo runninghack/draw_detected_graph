@@ -1,0 +1,15 @@
+14.80277542266378
+que	cuanta	onu	abandonado	posible	molesta	ojos	perfil	sorpresa	espau00f1a	dijo	
+684341.0	333.0	1054.0	402.0	3807.0	826.0	7093.0	3044.0	1549.0	19622.0	6407.0	
+cuanta	perfil
+que	perfil
+espau00f1a	dijo
+que	dijo
+que	ojos
+que	sorpresa
+que	onu
+que	posible
+que	espau00f1a
+que	molesta
+posible	perfil
+abandonado	espau00f1a

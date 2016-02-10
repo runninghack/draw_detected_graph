@@ -1,0 +1,5 @@
+0,2014-02-08_10_graph.txt,venezuela	nuevos	fotos	dormir	bassil	dios	piden	quedu00f3	familiares	nacidos
+1,2014-02-08_10_graph.txt,venezuela	nuevos	vivo	vida	dormir	dios	seu00f1or	familiares	nacidos
+2,2014-02-08_10_graph.txt,venezuela	nuevos	vivo	mal	dormir	bassil	dios	seu00f1or	familiares	nacidos
+3,2014-02-08_10_graph.txt,venezuela	nuevos	vivo	vida	dormir	dios	seu00f1or	familiares	nacidos
+4,2014-02-08_10_graph.txt,venezuela	nuevos	vivo	vida	dormir	dios	seu00f1or	familiares	nacidos

@@ -1,0 +1,47 @@
+615250.2062222353
+novio	hasta	alguien	detenido	mas	dice	valencia	tu00fa	fundaciu00f3n	urgente	1aparonacional	les	du00eda	leal	resiste	
+4399.0	16602.0	18641.0	405.0	17537.0	9534.0	270.0	18807.0	307.0	809.0	32.0	17912.0	34748.0	62.0	16.0	
+hasta	1aparonacional
+mas	dice
+1aparonacional	les
+hasta	les
+alguien	urgente
+hasta	urgente
+hasta	fundaciu00f3n
+mas	du00eda
+valencia	fundaciu00f3n
+alguien	detenido
+dice	1aparonacional
+hasta	detenido
+alguien	dice
+urgente	1aparonacional
+mas	resiste
+tu00fa	du00eda
+detenido	mas
+alguien	les
+hasta	valencia
+hasta	du00eda
+dice	les
+detenido	valencia
+hasta	mas
+alguien	du00eda
+urgente	les
+alguien	mas
+1aparonacional	du00eda
+hasta	tu00fa
+detenido	urgente
+novio	alguien
+detenido	leal
+mas	les
+valencia	les
+mas	valencia
+urgente	leal
+mas	1aparonacional
+valencia	resiste
+tu00fa	les
+les	du00eda
+detenido	dice
+valencia	1aparonacional
+hasta	dice
+hasta	alguien
+alguien	tu00fa

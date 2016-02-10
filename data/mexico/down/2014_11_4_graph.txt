@@ -1,0 +1,16 @@
+marido	ipn	marcelaherrerar	escuelas	httptcozuqtdn5vkn	roblesmaloof	ayotzinapa	rivera	yamecanse	tu00e9cnicas	enrique	
+1368.0	2405.0	1304.0	1305.0	5349.0	2503.0	36232.0	21678.0	52495.0	282.0	3625.0	
+marido	rivera
+marcelaherrerar	rivera
+escuelas	tu00e9cnicas
+ayotzinapa	rivera
+ayotzinapa	yamecanse
+ipn	enrique
+roblesmaloof	yamecanse
+ipn	escuelas
+yamecanse	enrique
+marcelaherrerar	yamecanse
+rivera	yamecanse
+roblesmaloof	ayotzinapa
+marcelaherrerar	ayotzinapa
+marido	httptcozuqtdn5vkn

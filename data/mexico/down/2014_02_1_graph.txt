@@ -1,0 +1,15 @@
+chu00e1vez	nunca	genesis	venezuela	razu00f3n	venir	fam	su00ed	que	iqueemma	mis	
+1151.0	27002.0	121.0	26929.0	5410.0	2536.0	457.0	14352.0	592172.0	6682.0	27380.0	
+razu00f3n	iqueemma
+venir	iqueemma
+que	iqueemma
+nunca	iqueemma
+venezuela	que
+nunca	mis
+fam	mis
+chu00e1vez	venezuela
+su00ed	que
+nunca	que
+venezuela	venir
+razu00f3n	que
+genesis	venezuela

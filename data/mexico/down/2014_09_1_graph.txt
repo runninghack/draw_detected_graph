@@ -1,0 +1,10 @@
+esto	bullysteriasebas	bullysteria	quedarse	exigimos	frasesdeahora	mis	
+15030.0	5456.0	5693.0	1687.0	359.0	12749.0	50535.0	
+bullysteriasebas	mis
+esto	bullysteria
+bullysteria	exigimos
+bullysteriasebas	exigimos
+esto	bullysteriasebas
+quedarse	frasesdeahora
+bullysteriasebas	bullysteria
+frasesdeahora	mis

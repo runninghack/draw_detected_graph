@@ -1,0 +1,20 @@
+mexico	brasil2014	how	record_mexico	celebrate	its	real_liam_payne	dont	louis_tomlinson	please	money	
+146370.0	13639.0	6042.0	4596.0	356.0	9728.0	1119.0	9390.0	601.0	18872.0	975.0	
+brasil2014	record_mexico
+how	dont
+mexico	dont
+mexico	brasil2014
+mexico	please
+mexico	its
+how	please
+its	dont
+real_liam_payne	please
+mexico	celebrate
+mexico	money
+dont	please
+its	please
+mexico	how
+real_liam_payne	louis_tomlinson
+dont	money
+how	celebrate
+how	its

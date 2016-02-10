@@ -1,0 +1,30 @@
+losmillonesdelprd	ayotzinapa	normalistas	navarreterecibemillonesdeaguirre	indignante	desaparecidos	condena	resoluciu00f3n	todossomosayotzinapa	gobernar	europeo	pago	jenni	
+3776.0	25567.0	13876.0	10315.0	247.0	6930.0	827.0	257.0	2715.0	245.0	996.0	956.0	357.0	
+normalistas	desaparecidos
+ayotzinapa	gobernar
+ayotzinapa	todossomosayotzinapa
+ayotzinapa	normalistas
+navarreterecibemillonesdeaguirre	condena
+ayotzinapa	navarreterecibemillonesdeaguirre
+losmillonesdelprd	normalistas
+ayotzinapa	resoluciu00f3n
+losmillonesdelprd	desaparecidos
+navarreterecibemillonesdeaguirre	indignante
+normalistas	jenni
+navarreterecibemillonesdeaguirre	pago
+normalistas	condena
+losmillonesdelprd	pago
+condena	europeo
+desaparecidos	jenni
+losmillonesdelprd	navarreterecibemillonesdeaguirre
+ayotzinapa	condena
+condena	resoluciu00f3n
+ayotzinapa	desaparecidos
+ayotzinapa	indignante
+ayotzinapa	europeo
+resoluciu00f3n	europeo
+navarreterecibemillonesdeaguirre	gobernar
+normalistas	europeo
+losmillonesdelprd	ayotzinapa
+desaparecidos	todossomosayotzinapa
+normalistas	todossomosayotzinapa

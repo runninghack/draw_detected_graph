@@ -1,0 +1,29 @@
+empresas	acciu00f3n	planta	1999	novio	pendeja	mu00e1s	que	quieran	inflaciu00f3n	razu00f3n	bomba	despuu00e9s	conozca	vida	limpieza	preguntan	casera	
+271.0	140.0	126.0	16.0	580.0	212.0	10342.0	79220.0	143.0	125.0	652.0	150.0	1184.0	46.0	6705.0	41.0	78.0	25.0	
+novio	que
+acciu00f3n	que
+mu00e1s	vida
+que	despuu00e9s
+que	quieran
+conozca	limpieza
+empresas	que
+mu00e1s	razu00f3n
+que	conozca
+que	razu00f3n
+novio	pendeja
+mu00e1s	que
+quieran	inflaciu00f3n
+que	inflaciu00f3n
+1999	que
+que	preguntan
+planta	limpieza
+bomba	casera
+mu00e1s	despuu00e9s
+bomba	despuu00e9s
+mu00e1s	inflaciu00f3n
+que	vida
+planta	que
+empresas	planta
+despuu00e9s	vida
+empresas	mu00e1s
+razu00f3n	vida

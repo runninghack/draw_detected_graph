@@ -1,0 +1,21 @@
+venezuela	nuevos	vivo	vida	dormir	dios	seu00f1or	familiares	nacidos	
+13810.0	3570.0	4553.0	49078.0	8096.0	11584.0	2387.0	968.0	21.0	
+dios	familiares
+vida	dormir
+vivo	dios
+vivo	seu00f1or
+venezuela	seu00f1or
+venezuela	familiares
+vivo	vida
+venezuela	vida
+venezuela	vivo
+vivo	familiares
+vida	dios
+vida	nacidos
+dormir	dios
+venezuela	dormir
+vida	familiares
+vida	seu00f1or
+venezuela	dios
+venezuela	nuevos
+dios	seu00f1or

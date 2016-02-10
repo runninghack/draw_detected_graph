@@ -1,0 +1,22 @@
+nacimiento	fundador	maduro	venezuela	brasil	esto	wimbledonxespn	brasileu00f1os	kahlo	federer	frida	delta	alemaniavsbrasil	
+198.0	100.0	108.0	496.0	27569.0	8616.0	164.0	2151.0	839.0	763.0	1071.0	26.0	1678.0	
+nacimiento	kahlo
+maduro	venezuela
+venezuela	brasileu00f1os
+maduro	brasileu00f1os
+esto	brasileu00f1os
+wimbledonxespn	federer
+kahlo	frida
+brasil	esto
+venezuela	brasil
+esto	alemaniavsbrasil
+venezuela	wimbledonxespn
+brasil	alemaniavsbrasil
+nacimiento	frida
+fundador	venezuela
+maduro	brasil
+nacimiento	maduro
+venezuela	esto
+maduro	delta
+brasil	brasileu00f1os
+venezuela	delta

@@ -1,0 +1,22 @@
+6.697414907005954
+vu00edas	foto	bebe	diu00e1logo	cnn	rodriguez	que	nicolasmaduro	david	tambien	acompau00f1ar	
+311.0	26791.0	1528.0	735.0	1056.0	144.0	628512.0	136.0	1251.0	2385.0	262.0	
+rodriguez	tambien
+diu00e1logo	cnn
+rodriguez	que
+vu00edas	nicolasmaduro
+diu00e1logo	que
+diu00e1logo	acompau00f1ar
+rodriguez	nicolasmaduro
+vu00edas	que
+que	david
+bebe	que
+foto	diu00e1logo
+foto	nicolasmaduro
+bebe	nicolasmaduro
+cnn	que
+diu00e1logo	rodriguez
+que	nicolasmaduro
+foto	que
+diu00e1logo	nicolasmaduro
+que	tambien

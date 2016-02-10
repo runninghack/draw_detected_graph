@@ -1,0 +1,22 @@
+cuentas	significance	yamecanse7	one	sensualtips	rau00fal	raul	feliz	pasa	congelar	barru00f3n	susan	complicidad	navidad	tu00fa	epigmenioibarra	veces	alguien	
+4537.0	33.0	8584.0	33306.0	17817.0	6677.0	610.0	26412.0	18724.0	101.0	154.0	43.0	363.0	37997.0	22709.0	22878.0	23804.0	26967.0	
+sensualtips	veces
+feliz	navidad
+navidad	epigmenioibarra
+rau00fal	pasa
+pasa	veces
+sensualtips	feliz
+yamecanse7	rau00fal
+sensualtips	alguien
+one	pasa
+significance	raul
+cuentas	congelar
+yamecanse7	raul
+cuentas	yamecanse7
+yamecanse7	barru00f3n
+cuentas	rau00fal
+pasa	navidad
+pasa	alguien
+tu00fa	alguien
+yamecanse7	complicidad
+susan	complicidad

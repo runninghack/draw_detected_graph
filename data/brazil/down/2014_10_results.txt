@@ -1,0 +1,5 @@
+0,2014-10-22_8_graph.txt,here	com	today	girl	cara	voto	completa	nu00e3o	always	prefeito	confirma	tag	daniela
+1,2014-10-21_7_graph.txt,quu00e9	votando	kcaargentina	jackson	brasil	hoje	mudar	jorgeblanco	michael	red	que	amigo	simples
+2,2014-10-22_8_graph.txt,here	com	today	girl	cara	voto	completa	nu00e3o	always	prefeito	confirma	tag	daniela
+3,2014-10-02_9_graph.txt,justinbieber	top	has	brasil	tomando	nu00e3o	atualizau00e7u00e3o	vuelve	entro	let	this	happy	made
+4,2014-10-22_8_graph.txt,here	com	today	girl	cara	voto	always	prefeito	tag	daniela
