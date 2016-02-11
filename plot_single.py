@@ -3,8 +3,8 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 import goslate
-import textblob
-from textblob import TextBlob
+#import textblob
+#from textblob import TextBlob
 import os
 import calendar
 import codecs
@@ -13,7 +13,8 @@ import json
 
 gs = goslate.Goslate()
 result_path = "./"
-sourcePath = "/Users/ramiel/Workspace/GraphIHT/data/mexico/"
+# = "/Users/ramiel/Workspace/GraphIHT/data/mexico/"
+sourcePath = "C:/Users/Ramiel/Documents/GitHub/CensorshipDetection/data/mexico/"
 
 
 def calculate_lambda(data_path, fname, nodelist):
@@ -138,9 +139,10 @@ def run_all():
 
 
 if __name__ == "__main__":
-    data_path = "/Users/ramiel/Workspace/GraphIHT/outputs/mexico_down/"
-    files= os.listdir(data_path)
-    files = filter(lambda x: x.find("graph") > 0, files)
-    for f in files:
-        run(data_path, f)
+    data_path = "C:/Users/Ramiel/Desktop/results/venezuela/down/"
+    run(data_path, "2014_01_3_graph.txt")
+#    files= os.listdir(data_path)
+#    files = filter(lambda x: x.find("graph") > 0, files)
+#    for f in files:
+#        run(data_path, f)
 
